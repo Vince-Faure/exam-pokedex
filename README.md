@@ -2,6 +2,12 @@
 
 Vincent Fauré CDA JAVA Web-Force 3
 
+Commit de référence de fin d'examen à 16h45.
+
+J aurai bien eu besoin d'au moins une heure de plus !!
+
+C'est pas grave je m'y attellerai plus tard !!
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.4.
 
 ## Development server
